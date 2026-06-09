@@ -1,6 +1,9 @@
-# 🛢️ Well Log Analyst
+# Well Log Analyst
 
-**Well Log Analyst** is an interactive petrophysical interpretation and reservoir characterization platform built with Streamlit. The application provides an integrated workflow for visualizing and analyzing LAS well log data, incorporating formation tops, evaluating lithology, calculating shale volume and porosity, estimating net reservoir thickness, and generating automated PDF reports. Users can perform interval-based analysis using either the current depth zoom range or selected formation-top boundaries, enabling rapid reservoir characterization and screening within a single environment.
+**Well Log Analyst** is an interactive petrophysical interpretation and reservoir characterization platform built with Streamlit. 
+
+The application provides an integrated workflow for visualizing and analyzing LAS well log data, incorporating formation tops, evaluating lithology, calculating shale volume and porosity, estimating net reservoir thickness, and generating automated PDF reports. Users can perform interval-based analysis using either the current depth zoom range or selected formation-top boundaries, enabling rapid reservoir characterization and screening within a single environment.
+
 Designed for geoscientists, petrophysicists, reservoir engineers, and researchers, the platform combines well log visualization with quantitative interpretation tools to support efficient subsurface evaluation.
 
 ---
@@ -15,7 +18,7 @@ Designed for geoscientists, petrophysicists, reservoir engineers, and researcher
 * Automatic curve detection and mapping
 * Support for multiple LAS curve naming conventions
 
-### 🪨 Shale Volume (Vsh) Analysis
+### 🛢️ Shale Volume (Vsh) Analysis
 
 Calculate shale volume using multiple industry-standard methods:
 
