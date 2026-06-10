@@ -6,6 +6,9 @@ The application provides an integrated workflow for visualizing and analyzing LA
 
 Designed for geoscientists, petrophysicists, reservoir engineers, and researchers, the platform combines well log visualization with quantitative interpretation tools to support efficient subsurface evaluation.
 
+## Live Demo
+
+👉 https://well-log-analyst-app.streamlit.app/
 ---
 
 ## 🚀 Features
