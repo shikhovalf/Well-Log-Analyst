@@ -138,7 +138,28 @@ Recommended for complete petrophysical analysis:
 * Sonic-based workflows require DTC and/or DTS logs.
 * AI and Vp/Vs calculations require sonic and density logs.
 * Lithology analysis requires both density and neutron logs.
-* The application automatically detects common curve aliases.
+
+### Data Quality & Curve Recognition
+- Automatic recognition of common LAS curve mnemonics
+- Support for multiple vendor naming conventions
+- Automatic neutron porosity unit detection and normalization
+- Missing-curve identification and availability checks
+
+### LAS Curve Recognition
+
+The application automatically maps common industry mnemonics to standard petrophysical curves. Exact curve names are not required.
+
+| Curve Type | Supported Mnemonics |
+|------------|---------------------|
+| Gamma Ray | GR, HGR, GR_EDTC |
+| Resistivity | RT, RDEP, LLD, ILD, HRD |
+| Density | RHOB, DEN, ZDEN, RHOZ |
+| Neutron Porosity | NPHI, HCNL, NEU, NPHI_LS |
+| Caliper | CALI, CALX, CALS |
+| Bit Size | BIT, BS |
+| Photoelectric Factor | PE, PEF, PEFZ |
+| Compressional Sonic | DTC, AC, DT |
+| Shear Sonic | DTS, ACS, DT_S |
 
 ---
 
