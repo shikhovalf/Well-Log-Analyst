@@ -1,0 +1,8 @@
+streamlit
+lasio
+pandas
+numpy
+matplotlib
+reportlab
+openpyxl
+xlrd
