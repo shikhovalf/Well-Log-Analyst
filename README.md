@@ -58,11 +58,9 @@ Additional capabilities:
 
 Neutron-Density crossplot interpretation including:
 
-* Sandstone trend
-* Limestone trend
-* Dolomite trend
+* Sandstone, Limestone and Dolomite trends
 * Dominant lithology determination
-* Lithology percentage distribution
+* Lithology percentage calculation
 * Shale filtering using Vsh cutoff
 
 ### 📊 Reservoir Characterization
@@ -80,8 +78,7 @@ Neutron-Density crossplot interpretation including:
 * Shear velocity (Vs)
 * Vp/Vs ratio analysis
 * Acoustic Impedance (AI)
-* Density-AI crossplots
-* Fluid and lithology discrimination
+* Density-AI crossplot
 
 ### 📄 Automated Reporting
 
