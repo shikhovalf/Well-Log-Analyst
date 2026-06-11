@@ -1,6 +1,6 @@
 # Well Log Analyst
 
-**Well Log Analyst** is an interactive petrophysical interpretation and reservoir characterization platform built with Streamlit. 
+**Well Log Analyst** is an interactive petrophysical interpretation and reservoir characterization platform built with Python. 
 
 The application provides an integrated workflow for visualizing and analyzing LAS well log data, incorporating formation tops, evaluating lithology, calculating shale volume and porosity, estimating net reservoir thickness, and generating automated PDF reports. Users can perform interval-based analysis using either the current depth zoom range or selected formation-top boundaries, enabling rapid reservoir characterization and screening within a single environment.
 
